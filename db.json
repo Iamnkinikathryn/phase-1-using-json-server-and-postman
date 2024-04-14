@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Exploring JSON Server",
+      "content": "JSON Server provides a quick back-end for prototyping and mocking."
+    },
+    {
+      "id": "2",
+      "title": "Learning JavaScript",
+      "content": "JavaScript is essential for modern web development."
+    },
+    {
+      "id": "3",
+      "title": "Understanding REST",
+      "content": "REST is a set of principles that define how Web standards, such as HTTP and URLs, are supposed to be used."
+    },
+    {
+      "id": "4",
+      "title": "Future of Web Development",
+      "content": "The future of web development is likely to be driven by the increasing need for more dynamic and responsive applications."
+    },
+    {
+      "id": "5",
+      "title": "Why Use Postman?",
+      "content": "Postman simplifies the process of developing APIs that allow you to test, document, and share your creations."
+    },
+    {
+      "id": "333a",
+      "title": "Third Article",
+      "content": "Another example!"
+    }
+  ]
+}
